@@ -1,0 +1,30 @@
+Body{
+    background-color: mediumslateblue;
+}
+h1{
+    color: white;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    font-family: serif;
+    text-align: justify;
+    line-height: 25px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+ footer{
+    color:white;
+    font-size: medium;
+    font-weight: lighter;
+    background-color: slateblue;
+    text-align: justify;
+ }

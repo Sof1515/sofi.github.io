@@ -1,0 +1,69 @@
+body{
+    font-family: "Lucida Sans";
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: darkslategrey;
+}
+
+label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"]
+input[type="email"]
+input[type="password"]
+select,
+textarea{
+    border: 1px solid;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}  
+
+input[type="radio"]
+input[type="checkbox"]{
+    margin-right: 5px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+textarea{
+    font-family: monospace;
+}
+
+button{
+    background-color:  #4caf60;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;margin-right: 10px;
+    font-weight: bold;
+}
+
+button[type="reset"]{
+    background-color: #f00;
+}
+
+h1{
+    font-family: Genava;
+}
+label{
+    font-family: Georgia, serif;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"]{
+    font-family: 'Courier New',monospace;
+}
